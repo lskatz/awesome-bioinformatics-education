@@ -5,7 +5,9 @@ I appreciate any help! For contributing, please see [CONTRIBUTIONS.md](CONTRIBUT
 
 ## Contents
 
-* I am relying on the GitHub interface for the ToC navigation.
+I am relying on the GitHub interface for the ToC navigation.
+
+* [Full courses](#full-courses)
 
 ## Full courses
 
