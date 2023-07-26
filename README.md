@@ -1,9 +1,15 @@
-# Awesome bioinformatics education
+# Awesome Bioinformatics Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources specific to learning bioinformatics.
 I appreciate any help! For contributing, please see [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Contents
+
+* [Full courses](#full-courses)
+* [Hands on](#hands-on)
+* [Specific tools or topics](#specific-tools-or-topics)
+* [Further reading](#further-reading)
+* [Uncategorized](#uncategorized)
 
 ## Full courses
 
@@ -31,7 +37,7 @@ Places where you can directly earn a certificate or where real students are earn
 ### Full unaccredited courses
 
 * [Pathogen genomics data analysis course - Conor Meehan](https://conmeehan.github.io/PathogenDataCourse/PathogenCourse.html)
-* [MMB DTP Training](https://mmbdtp.github.io/) - A problem-based learning curriculum for the "Microbes, Microbiomes and Bioinformatics" doctoral training program
+* [MMB DTP Training](https://mmbdtp.github.io/) - A problem-based learning curriculum for the "Microbes, Microbiomes and Bioinformatics" doctoral training program.
 * [Computational Genomics and Bioinformatics Class](https://linsalrob.github.io/ComputationalGenomicsManual/)
 
 ## Hands on
@@ -71,7 +77,7 @@ Galaxy is a very large but specific tool with lots of different possible tutoria
 
 ## Uncategorized
 
-I appreciate any help categorizing these (see: [CONTRIBUTIONS.md](CONTRIBUTIONS.md))!
+I appreciate any help categorizing these!
 
 * [List of genome visualisation tools](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
 * [List of training materials](https://github.com/sib-swiss/training-collection)
@@ -81,6 +87,6 @@ I appreciate any help categorizing these (see: [CONTRIBUTIONS.md](CONTRIBUTIONS.
 * [Book: Computational Genomics with R](https://compgenomr.github.io/book/ )
 * [Book: An applied genomic epidemiological handbook](https://alliblk.github.io/genepi-book/ )
 * [Data science in Python - course materials](https://github.com/pycam/python-data-science)
-* [CS229: Andrew Ng’s Machine Learning course](http://cs229.stanford.edu/ )
+* [CS229: Machine Learning course](http://cs229.stanford.edu/ )
 * [Version Control with Git](https://swcarpentry.github.io/git-novice/index.html )
 * [Version Control using Git and GitHub](https://docs.github.com/en )
