@@ -1,9 +1,11 @@
-# Awesome Bioinformatics Education
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Bioinformatics Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources specific to learning bioinformatics.
 I appreciate any help! For contributing, please see [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+
+## Contents
+
+I am relying on the github interface for the ToC navigation.
 
 ## Full courses
 
@@ -71,7 +73,7 @@ Galaxy is a very large but specific tool with lots of different possible tutoria
 
 ## Uncategorized
 
-I appreciate any help categorizing these (see: [CONTRIBUTIONS.md](CONTRIBUTIONS.md))!
+I appreciate any help categorizing these!
 
 * [List of genome visualisation tools](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
 * [List of training materials](https://github.com/sib-swiss/training-collection)
