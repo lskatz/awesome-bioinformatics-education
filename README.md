@@ -5,9 +5,11 @@ I appreciate any help! For contributing, please see [CONTRIBUTIONS.md](CONTRIBUT
 
 ## Contents
 
-I am relying on the GitHub interface for the ToC navigation.
-
 * [Full courses](#full-courses)
+* [Hands on](#hands-on)
+* [Specific tools or topics](#specific-tools-or-topics)
+* [Further reading](#further-reading)
+* [Uncategorized](#uncategorized)
 
 ## Full courses
 
