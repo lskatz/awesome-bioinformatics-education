@@ -79,6 +79,8 @@ Galaxy is a very large but specific tool with lots of different possible tutoria
 
 I appreciate any help categorizing these!
 
+* [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) - Git repositories with bioinformatics training material.
+* [5-day OUCRU-MORU bioinformatics fundamentals workshop](https://flashton2003.github.io/OUCRU_bioinformatics_training/index.html)
 * [List of genome visualisation tools](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
 * [List of training materials](https://github.com/sib-swiss/training-collection)
 * [List of training materials](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources )
