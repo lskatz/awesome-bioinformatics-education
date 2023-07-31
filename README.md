@@ -1,7 +1,7 @@
 # Awesome Bioinformatics Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources specific to learning bioinformatics.
-I appreciate any help! For contributing, please see [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
