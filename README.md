@@ -1,3 +1,4 @@
+<!--lint disable awesome-git-repo-age-->
 # Awesome Bioinformatics Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources specific to learning bioinformatics.
