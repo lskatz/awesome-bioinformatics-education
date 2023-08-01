@@ -30,6 +30,9 @@ Places where you can directly earn a certificate or where real students are earn
 * [Ben Langmead's teaching materials](http://www.langmead-lab.org/teaching-materials/)
 * [SciLifeLab course listings](https://scilifelab.github.io/courses/)
 * [Andrea Telatin's tutorials](https://telatin.github.io/microbiome-bioinformatics/ )
+* [Free code camp](https://www.freecodecamp.org/)
+* [DataCamp](https://www.datacamp.com/)
+* [Udemy](https://www.udemy.com/)
 * Coursera
   * [Python Basics](https://www.coursera.org/learn/python-basics)
   * [Data Structures](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming#syllabus)
@@ -72,6 +75,27 @@ Galaxy is a very large but specific tool with lots of different possible tutoria
 * [Tapas](https://gallantries.github.io/video-library/events/smorgasbord2/tapas.html)
 * [Metagenomics](https://usegalaxy-eu.github.io/index-metagenomics.html)
 
+### LLMs
+
+(Help wanted)
+
+Large Language Models (LLMs) include things like
+[ChatGPT](https://chat.openai.com/),
+[Bing](https://www.microsoft.com/en-us/bing/apis/llm),
+[LLAMA](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/),
+and
+[Bard](https://bard.google.com/).
+
+### Genomic epidemiology
+
+* [Book: An applied genomic epidemiological handbook](https://alliblk.github.io/genepi-book/ )
+* [Book: R for applied epidemiology and public health](https://epirhandbook.com/en/)
+
+### Statistics
+
+* [Book: Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html )
+* [Choosing the correct statistical test in SAS, STATA, SPSS, and R](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/)
+
 ## Further reading
 
 * [Integrating Molecular Biology and Bioinformatics Education](https://www.degruyter.com/document/doi/10.1515/jib-2019-0005/html)
@@ -83,12 +107,10 @@ I appreciate any help categorizing these!
 * [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) - Git repositories with bioinformatics training material.
 * [5-day OUCRU-MORU bioinformatics fundamentals workshop](https://flashton2003.github.io/OUCRU_bioinformatics_training/index.html)
 * [List of genome visualisation tools](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
-* [List of training materials](https://github.com/sib-swiss/training-collection)
-* [List of training materials](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources )
-* [Book: Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html )
+* [List of training materials at SIB](https://github.com/sib-swiss/training-collection)
+* [List of training materials at github.com/crazyhottommy](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources )
 * [Book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/ )
 * [Book: Computational Genomics with R](https://compgenomr.github.io/book/ )
-* [Book: An applied genomic epidemiological handbook](https://alliblk.github.io/genepi-book/ )
 * [Data science in Python - course materials](https://github.com/pycam/python-data-science)
 * [CS229: Machine Learning course](http://cs229.stanford.edu/ )
 * [Version Control with Git](https://swcarpentry.github.io/git-novice/index.html )
