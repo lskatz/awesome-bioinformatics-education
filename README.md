@@ -108,7 +108,7 @@ I appreciate any help categorizing these!
 * [5-day OUCRU-MORU bioinformatics fundamentals workshop](https://flashton2003.github.io/OUCRU_bioinformatics_training/index.html)
 * [List of genome visualisation tools](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
 * [List of training materials at SIB](https://github.com/sib-swiss/training-collection)
-* [List of training materials at github.com/crazyhottommy](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources )
+* [List of training materials at GitHub.com/crazyhottommy](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources )
 * [Book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/ )
 * [Book: Computational Genomics with R](https://compgenomr.github.io/book/ )
 * [Data science in Python - course materials](https://github.com/pycam/python-data-science)
