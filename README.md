@@ -67,13 +67,24 @@ Places where you can directly earn a certificate or where real students are earn
 
 ### Galaxy
 
-Galaxy is a very large but specific tool with lots of different possible tutorials
+Galaxy is a very large but specific tool with lots of different possible tutorials, e.g.:
 
 * [Galaxy Training: Genome Assembly of MRSA using MinION Data](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-nanopore/tutorial.html)
-* [Shiltemann global galaxy course](https://shiltemann.github.io/global-galaxy-course/workshop)
+* [Galaxy-wide Tutorial Site](https://training.galaxyproject.org/)
+* [Repository of ~140 hours of Galaxy Lectures+Tutorials](https://gallantries.github.io/video-library/library) under CC-BY license that can be embedded into your [Blackboard/Moodle/etc.](https://gallantries.github.io/video-library/videos/galaxy-interface/ncbi-sarf/slides/) (see button at bottom)
+
+Courses:
+
+* [Smörgåsbord 2021 (Global Galaxy Course)](https://shiltemann.github.io/global-galaxy-course/workshop)
+* [Smörgåsbord 2022 (Tapas)](https://gallantries.github.io/video-library/events/smorgasbord2/tapas.html)
+* [Smörgåsbord 2023](https://gallantries.github.io/video-library/events/smorgasbord3/)
 * [Genomic data analysis](https://speakerdeck.com/jxtx/teaching-genomic-data-analysis-with-galaxy)
-* [Tapas](https://gallantries.github.io/video-library/events/smorgasbord2/tapas.html)
-* [Metagenomics](https://usegalaxy-eu.github.io/index-metagenomics.html)
+
+Domain Specific Galaxy Servers
+
+* [Metagenomics](https://metagenomics.usegalaxy.eu)
+* [Genome Annotation](https://annotation.usegalaxy.eu)
+* [Full List](https://galaxyproject.org/use/)
 
 ### LLMs
 
