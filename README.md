@@ -37,6 +37,7 @@ Places where you can directly earn a certificate or where real students are earn
   * [Python Basics](https://www.coursera.org/learn/python-basics)
   * [Data Structures](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming#syllabus)
   * [Object Oriented Programming](https://www.coursera.org/learn/python-classes-inheritance)
+* [Bioinformatics Workbook](https://bioinformaticsworkbook.org/list.html#gsc.tab=0) - Takes you from unix basics and the HPC all the way through advanced concepts. These concepts include computational like `bioawk` and containers, project management like GitHub and Slack, and all sorts of bioinformatics topics.
   
 ### Full unaccredited courses
 
