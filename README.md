@@ -71,7 +71,7 @@ Galaxy is a very large but specific tool with lots of different possible tutoria
 
 * [Galaxy Training: Genome Assembly of MRSA using MinION Data](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-nanopore/tutorial.html)
 * [Galaxy-wide Tutorial Site](https://training.galaxyproject.org/)
-* [Repository of ~140 hours of Galaxy Lectures+Tutorials](https://gallantries.github.io/video-library/library) under CC-BY license that can be embedded into your [Blackboard/Moodle/etc.](https://gallantries.github.io/video-library/videos/galaxy-interface/ncbi-sarf/slides/) (see button at bottom)
+* [Repository of ~140 hours of Galaxy Lectures+Tutorials](https://gallantries.github.io/video-library/library) - under CC-BY license that can be embedded into your [Blackboard/Moodle/etc.](https://gallantries.github.io/video-library/videos/galaxy-interface/ncbi-sarf/slides/) (see button at bottom)
 
 Courses:
 
