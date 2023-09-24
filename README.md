@@ -102,6 +102,7 @@ and
 
 * [Book: An applied genomic epidemiological handbook](https://alliblk.github.io/genepi-book/ )
 * [Book: R for applied epidemiology and public health](https://epirhandbook.com/en/)
+* [Centre for Genomic Pathogen Surveillance digital epidemiology workshop](https://cgps-group.github.io/digitalepiworkshop/) - Really nice integrated exercises, using EpiCollect, DataFlo, PathogenWatch, Microreact.
 
 ### Statistics
 
