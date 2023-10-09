@@ -44,6 +44,7 @@ Places where you can directly earn a certificate or where real students are earn
 * [Pathogen genomics data analysis course - Conor Meehan](https://conmeehan.github.io/PathogenDataCourse/PathogenCourse.html)
 * [MMB DTP Training](https://mmbdtp.github.io/) - A problem-based learning curriculum for the "Microbes, Microbiomes and Bioinformatics" doctoral training program.
 * [Computational Genomics and Bioinformatics Class](https://linsalrob.github.io/ComputationalGenomicsManual/)
+* [Pathogen Bioinformatics Workshop held at SANBI](https://pabix.sanbi.ac.za/)
 
 ## Hands on
 
@@ -64,13 +65,16 @@ Places where you can directly earn a certificate or where real students are earn
 ### Phylogenetics or phylogenomics
 
 * [Tutorials on phylogenetic and phylogenomic inference](https://github.com/mmatschiner/tutorials)
-* [Genomic epidemiology workshop](https://bioinformatics.ca/workshops-all/2023-infectious-disease-genomic-epidemiology/)
+* [Genomic epidemiology workshops from bioinformatics.ca](https://bioinformatics.ca/workshops/previous-workshops/)
+  * [Genomic epidemiology workshop 2023](https://bioinformatics.ca/workshops-all/2023-infectious-disease-genomic-epidemiology/)
+  * [Genomic epidemiology workshop 2021](https://bioinformaticsdotca.github.io/IDE_2021)  
 
 ### Galaxy
 
 Galaxy is a very large but specific tool with lots of different possible tutorials, e.g.:
 
-* [Galaxy Training: Genome Assembly of MRSA using MinION Data](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-nanopore/tutorial.html)
+* [[Galaxy Training: Genome Assembly of MRSA using MinION Data](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-nanopore/tutorial.html)
+* [One-health tag on Galaxy Training Site - Pathogen Bioinformatics](https://training.galaxyproject.org/training-material/search2?query=one-health)
 * [Galaxy-wide Tutorial Site](https://training.galaxyproject.org/)
 * [Repository of ~140 hours of Galaxy Lectures+Tutorials](https://gallantries.github.io/video-library/library) - under CC-BY license that can be embedded into your [Blackboard/Moodle/etc.](https://gallantries.github.io/video-library/videos/galaxy-interface/ncbi-sarf/slides/) (see button at bottom)
 
