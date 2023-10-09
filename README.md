@@ -65,7 +65,9 @@ Places where you can directly earn a certificate or where real students are earn
 ### Phylogenetics or phylogenomics
 
 * [Tutorials on phylogenetic and phylogenomic inference](https://github.com/mmatschiner/tutorials)
-* [Genomic epidemiology workshop 2023](https://bioinformatics.ca/workshops-all/2023-infectious-disease-genomic-epidemiology/) and [2021](https://bioinformaticsdotca.github.io/IDE_2021)  
+* [Genomic epidemiology workshops from bioinformatics.ca](https://bioinformatics.ca/workshops/previous-workshops/)
+  * [Genomic epidemiology workshop 2023](https://bioinformatics.ca/workshops-all/2023-infectious-disease-genomic-epidemiology/)
+  * [Genomic epidemiology workshop 2021](https://bioinformaticsdotca.github.io/IDE_2021)  
 
 ### Galaxy
 
