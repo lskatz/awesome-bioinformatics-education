@@ -45,6 +45,8 @@ Places where you can directly earn a certificate or where real students are earn
 * [MMB DTP Training](https://mmbdtp.github.io/) - A problem-based learning curriculum for the "Microbes, Microbiomes and Bioinformatics" doctoral training program.
 * [Computational Genomics and Bioinformatics Class](https://linsalrob.github.io/ComputationalGenomicsManual/)
 * [Pathogen Bioinformatics Workshop held at SANBI](https://pabix.sanbi.ac.za/)
+* [Bioinformatics for Genomic Epidemiology - SANBI March 2024](https://pathogen-genomics-march-2024.sanbi.ac.za/)
+* [WCS AMR Africa 24 - NICD March 2024](https://github.com/WCSCourses/AMR-Africa-24/tree/main)
 
 ## Hands on
 
