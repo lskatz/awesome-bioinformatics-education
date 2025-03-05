@@ -104,6 +104,12 @@ Large Language Models (LLMs) include things like
 and
 [Bard](https://bard.google.com/).
 
+
+### Genomic data analysis
+
+* [Book: Bioinformatics Data Skills](https://vincebuffalo.com/book/)
+* [Book: Biostars Handbook](https://www.biostarhandbook.com/)
+
 ### Genomic epidemiology
 
 * [Book: An applied genomic epidemiological handbook](https://alliblk.github.io/genepi-book/ )
