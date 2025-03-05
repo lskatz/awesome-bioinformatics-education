@@ -27,7 +27,7 @@ Places where you can directly earn a certificate or where real students are earn
 * [Titus Brown's class materials](https://github.com/ngs-docs)
 * [Meren Lab's tutorials (central tab)](https://merenlab.org/2015/07/20/analyzing-variability/ )
 * [Astrobio Mike's tutorials](https://astrobiomike.github.io/all_tutorials/)
-* [Ben Langmead's teaching materials](http://www.langmead-lab.org/teaching-materials/)
+* [Ben Langmead's teaching materials](https://www.langmead-lab.org/teaching.html)
 * [SciLifeLab course listings](https://scilifelab.github.io/courses/)
 * [Andrea Telatin's tutorials](https://telatin.github.io/microbiome-bioinformatics/ )
 * [Free code camp](https://www.freecodecamp.org/)
