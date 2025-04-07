@@ -59,6 +59,7 @@ Places where you can directly earn a certificate or where real students are earn
 
 ## Hands on
 
+* [sandbox.bio](https://sandbox.bio/)
 * [Rosalind](https://rosalind.info)
 
 ## Specific tools or topics
