@@ -14,6 +14,15 @@ I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTI
 
 ## Full courses
 
+### Accredited course packages
+
+Places where you can directly earn a certificate or where real students are earning real credits
+
+* Coursera
+  * [Bioinformatics](https://www.coursera.org/specializations/bioinformatics)
+  * [Applied Bioinformatics](https://www.coursera.org/specializations/applied-bioinformatics)
+  * [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)
+
 ### Full accredited courses
 
 Places where you can directly earn a certificate or where real students are earning real credits
