@@ -114,6 +114,9 @@ Large Language Models (LLMs) include things like
 and
 [Bard](https://bard.google.com/).
 
+### Microbial bioinformatics
+
+* [Book: Introduction to Bioinformatics in Microbiology](https://link.springer.com/book/10.1007/978-3-031-45293-2)
 
 ### Genomic data analysis
 
