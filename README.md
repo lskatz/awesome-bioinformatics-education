@@ -14,6 +14,15 @@ I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTI
 
 ## Full courses
 
+### Accredited course packages
+
+Places where you can directly earn a certificate or where real students are earning real credits
+
+* Coursera
+  * [Bioinformatics](https://www.coursera.org/specializations/bioinformatics)
+  * [Applied Bioinformatics](https://www.coursera.org/specializations/applied-bioinformatics)
+  * [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)
+
 ### Full accredited courses
 
 Places where you can directly earn a certificate or where real students are earning real credits
@@ -27,7 +36,7 @@ Places where you can directly earn a certificate or where real students are earn
 * [Titus Brown's class materials](https://github.com/ngs-docs)
 * [Meren Lab's tutorials (central tab)](https://merenlab.org/2015/07/20/analyzing-variability/ )
 * [Astrobio Mike's tutorials](https://astrobiomike.github.io/all_tutorials/)
-* [Ben Langmead's teaching materials](http://www.langmead-lab.org/teaching-materials/)
+* [Ben Langmead's teaching materials](https://www.langmead-lab.org/teaching.html)
 * [SciLifeLab course listings](https://scilifelab.github.io/courses/)
 * [Andrea Telatin's tutorials](https://telatin.github.io/microbiome-bioinformatics/ )
 * [Free code camp](https://www.freecodecamp.org/)
@@ -50,6 +59,7 @@ Places where you can directly earn a certificate or where real students are earn
 
 ## Hands on
 
+* [sandbox.bio](https://sandbox.bio/)
 * [Rosalind](https://rosalind.info)
 
 ## Specific tools or topics
@@ -107,6 +117,11 @@ and
 ### Microbial bioinformatics
 
 * [Book: Introduction to Bioinformatics in Microbiology](https://link.springer.com/book/10.1007/978-3-031-45293-2)
+
+### Genomic data analysis
+
+* [Book: Bioinformatics Data Skills](https://vincebuffalo.com/book/)
+* [Book: Biostars Handbook](https://www.biostarhandbook.com/)
 
 ### Genomic epidemiology
 
