@@ -27,7 +27,7 @@ Places where you can directly earn a certificate or where real students are earn
 
 Places where you can directly earn a certificate or where real students are earning real credits
 
-* [GSU Fundamentals of Bioinformatics](https://github.com/lskatz/fundamentals-of-bioinformatics) - a complete introductory course for microbial bioinformatics.
+* [GSU Fundamentals of Bioinformatics](https://github.com/lskatz/fundamentals-of-bioinformatics) - A complete introductory course for microbial bioinformatics.
 * MIT Open Courseware
   * [Computational biology](https://ocw.mit.edu/courses/6-047-computational-biology-fall-2015/)
   * [Bioinformatics and Proteomics](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/)
