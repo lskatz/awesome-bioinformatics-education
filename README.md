@@ -115,6 +115,8 @@ Large Language Models (LLMs) include things like
 and
 [Bard](https://bard.google.com/).
 
+* [BGPT](https://github.com/connerlambden/bgpt-mcp) - An evidence-quality API for scientific paper search. Returns structured fields per paper including methods, sample size, results, limitations, conflicts of interest, and quality scores. Works via REST, Python, and MCP.
+
 ### Microbial bioinformatics
 
 * [Book: Introduction to Bioinformatics in Microbiology](https://link.springer.com/book/10.1007/978-3-031-45293-2)
