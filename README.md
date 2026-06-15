@@ -57,6 +57,7 @@ Places where you can directly earn a certificate or where real students are earn
 * [Pathogen Bioinformatics Workshop held at SANBI](https://pabix.sanbi.ac.za/)
 * [Bioinformatics for Genomic Epidemiology - SANBI March 2024](https://pathogen-genomics-march-2024.sanbi.ac.za/)
 * [WCS AMR Africa 24 - NICD March 2024](https://github.com/WCSCourses/AMR-Africa-24/tree/main)
+* [Working with Bacterial Genomes](https://cambiotraining.github.io/bacterial-genomics/) - Comprehensive introduction to working with different bacterial species that covers the tools most commonly used to analyse bacterial genomes.
 
 ## Hands on
 
