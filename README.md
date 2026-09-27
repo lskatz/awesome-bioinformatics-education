@@ -58,11 +58,14 @@ Places where you can directly earn a certificate or where real students are earn
 * [Bioinformatics for Genomic Epidemiology - SANBI March 2024](https://pathogen-genomics-march-2024.sanbi.ac.za/)
 * [WCS AMR Africa 24 - NICD March 2024](https://github.com/WCSCourses/AMR-Africa-24/tree/main)
 * [Working with Bacterial Genomes](https://cambiotraining.github.io/bacterial-genomics/) - Comprehensive introduction to working with different bacterial species that covers the tools most commonly used to analyse bacterial genomes.
+* [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) - Textbook by Phillip Compeau and Pavel Pevzner, with its first five chapters and accompanying lecture videos free online.
+* [Biological Modeling](https://biologicalmodeling.org/) - Free online course on modeling biological systems, from network motifs and bacterial chemotaxis to protein structure and image classification.
 
 ## Hands on
 
 * [sandbox.bio](https://sandbox.bio/)
 * [Rosalind](https://rosalind.info)
+* [Programming for Lovers](https://programmingforlovers.com/) - Free introductory programming course in Python and Go, with code-alongs and exercises built around scientific problems.
 
 ## Specific tools or topics
 
